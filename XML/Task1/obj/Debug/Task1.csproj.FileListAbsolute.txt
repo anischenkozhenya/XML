@@ -1,0 +1,7 @@
+E:\XML\XML\XML\Task1\bin\Debug\Task1.exe.config
+E:\XML\XML\XML\Task1\bin\Debug\Task1.exe
+E:\XML\XML\XML\Task1\bin\Debug\Task1.pdb
+E:\XML\XML\XML\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\XML\XML\XML\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\XML\XML\XML\Task1\obj\Debug\Task1.exe
+E:\XML\XML\XML\Task1\obj\Debug\Task1.pdb
