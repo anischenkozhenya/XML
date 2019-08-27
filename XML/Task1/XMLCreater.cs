@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml;
+﻿using System.Xml;
 
 namespace Task1
 {
@@ -23,6 +18,6 @@ namespace Task1
             xmlfile.WriteEndAttribute();
             xmlfile.WriteString(name);
             xmlfile.WriteEndElement();            
-        }
+        }      
     }
 }
