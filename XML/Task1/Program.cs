@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
 using System.Text;
 using System.Xml;
 //Создайте.xml файл, который соответствовал бы следующим требованиям: 
@@ -30,6 +31,8 @@ namespace Task1
             xmlnewfile.WriteEndElement();
             //Закрытие файла
             xmlnewfile.Close();
+            Console.WriteLine("Файл создан. Для выхода нажмите любую кнопку...");
+            Console.ReadKey();
         }
     }
 }

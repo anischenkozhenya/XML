@@ -4,6 +4,8 @@ using System.IO;
 using System.Xml;
 //Создайте приложение,которое выводит 
 //на экран всю информацию об указанном.xml файле.
+//(файл создан в процессе выполнения
+//task1 задания)
 
 namespace Task2
 {
@@ -25,6 +27,7 @@ namespace Task2
                 Console.WriteLine("{0,-20}{1,-20}{2,-10}", xmlTextReader.NodeType, xmlTextReader.Name, xmlTextReader.Value);
             }
             xmlTextReader.Close();
+            Console.WriteLine("Для выхода нажмите любую кнопку...");
             Console.ReadKey();
         }
     }
